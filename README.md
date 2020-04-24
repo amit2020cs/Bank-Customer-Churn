@@ -27,7 +27,7 @@ Question 2: Which customer has higher churning rate one who uses our services li
   <li>Matplotlib </li>
   </ul>
   <h1> Result of the analysis </h1>
-  <p> Results and discussion were published on Medium: Prediction bank customers churn </p> <br>
+  <p> Results and discussion were published on Medium: <a href = 'https://medium.com/@jaffarjawed/predicting-preventing-banking-customer-churn-by-machine-learning-ee17eee32256'>Predicting & Preventing Banking Customer Churn by Machine Learning </a></p> <br>
   <p> In this project, I dived into the most recent Bank Customer Churn Modelling  and found many interesting phenomenom: </p>
    <ul>
   <li>We gathered the Bank Churn Modelling dataset and did some preprocessing of the dataset</li>
